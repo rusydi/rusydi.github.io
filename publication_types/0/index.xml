@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 on Rusydi H. Makarim</title>
+    <link>https://rusydi.github.io/publication_types/0/</link>
+    <description>Recent content in 0 on Rusydi H. Makarim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 20 Jul 2017 15:29:49 +0200</lastBuildDate>
+    
+	<atom:link href="https://rusydi.github.io/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>M4GB: An Efficient Grobner Basis Algorithm</title>
+      <link>https://rusydi.github.io/publication/m4gb/</link>
+      <pubDate>Thu, 20 Jul 2017 15:29:49 +0200</pubDate>
+      
+      <guid>https://rusydi.github.io/publication/m4gb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relating Undisturbed Bits to Other Properties of Substitution Boxes</title>
+      <link>https://rusydi.github.io/publication/undisturbed_bits/</link>
+      <pubDate>Sat, 20 Sep 2014 15:59:30 +0200</pubDate>
+      
+      <guid>https://rusydi.github.io/publication/undisturbed_bits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protection of Integrity and Ownership of PDF Documents Using Invisible Signature</title>
+      <link>https://rusydi.github.io/publication/pdf_signature/</link>
+      <pubDate>Tue, 20 Mar 2012 16:14:07 +0200</pubDate>
+      
+      <guid>https://rusydi.github.io/publication/pdf_signature/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

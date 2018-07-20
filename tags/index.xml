@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Rusydi H. Makarim</title>
+    <link>https://rusydi.github.io/tags/</link>
+    <description>Recent content in Tags on Rusydi H. Makarim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 20 Jul 2018 16:40:50 +0200</lastBuildDate>
+    
+	<atom:link href="https://rusydi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Boolean functions</title>
+      <link>https://rusydi.github.io/tags/boolean-functions/</link>
+      <pubDate>Fri, 20 Jul 2018 16:40:50 +0200</pubDate>
+      
+      <guid>https://rusydi.github.io/tags/boolean-functions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Groebner bases</title>
+      <link>https://rusydi.github.io/tags/groebner-bases/</link>
+      <pubDate>Fri, 20 Jul 2018 16:40:42 +0200</pubDate>
+      
+      <guid>https://rusydi.github.io/tags/groebner-bases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SBox</title>
+      <link>https://rusydi.github.io/tags/sbox/</link>
+      <pubDate>Fri, 20 Jul 2018 16:40:50 +0200</pubDate>
+      
+      <guid>https://rusydi.github.io/tags/sbox/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

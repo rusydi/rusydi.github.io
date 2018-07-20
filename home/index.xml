@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Rusydi H. Makarim</title>
+    <link>https://rusydi.github.io/home/</link>
+    <description>Recent content in Homes on Rusydi H. Makarim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://rusydi.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://rusydi.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://rusydi.github.io/home/about/</guid>
+      <description>Biography Rusydi Makarim is a PhD student at the Mathematical Institute, University Leiden and CWI Cryptology Group. His current research interest focuses on the algebraic aspects of cryptanalysis, in particular techniques to solve multivariate quadratic polynomial equations over a finite field. He also has a strong interest in understanding cryptographic aspect of Boolean functions and substitution boxes (S-Box).
+Rusydi is an active SageMath developer. He is mainly involved in the development of module to analyse cryptographic properties of Boolean functions and S-Boxes.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://rusydi.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://rusydi.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://rusydi.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://rusydi.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>https://rusydi.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://rusydi.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://rusydi.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://rusydi.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Softwares</title>
+      <link>https://rusydi.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://rusydi.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://rusydi.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://rusydi.github.io/home/teaching/</guid>
+      <description> Discrete Mathematics &amp;ndash; July 2010 - October 2010 Elements of Programming (C/C++) &amp;ndash; July 2010 - October 2010 Elements of Programming (C/C++) &amp;ndash; May 2009 - October 2009  </description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://rusydi.github.io/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://rusydi.github.io/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://rusydi.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://rusydi.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

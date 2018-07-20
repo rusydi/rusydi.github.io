@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rusydi H. Makarim on Rusydi H. Makarim</title>
+    <link>https://rusydi.github.io/</link>
+    <description>Recent content in Rusydi H. Makarim on Rusydi H. Makarim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>SageMath</title>
+      <link>https://rusydi.github.io/project/sagemath/</link>
+      <pubDate>Fri, 20 Jul 2018 16:40:50 +0200</pubDate>
+      
+      <guid>https://rusydi.github.io/project/sagemath/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M4GB</title>
+      <link>https://rusydi.github.io/project/m4gb/</link>
+      <pubDate>Fri, 20 Jul 2018 16:40:42 +0200</pubDate>
+      
+      <guid>https://rusydi.github.io/project/m4gb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solving a Binary Puzzle</title>
+      <link>https://rusydi.github.io/publication/binary_puzzle/</link>
+      <pubDate>Wed, 20 Dec 2017 15:40:45 +0200</pubDate>
+      
+      <guid>https://rusydi.github.io/publication/binary_puzzle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M4GB: An Efficient Grobner Basis Algorithm</title>
+      <link>https://rusydi.github.io/publication/m4gb/</link>
+      <pubDate>Thu, 20 Jul 2017 15:29:49 +0200</pubDate>
+      
+      <guid>https://rusydi.github.io/publication/m4gb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relating Undisturbed Bits to Other Properties of Substitution Boxes</title>
+      <link>https://rusydi.github.io/publication/undisturbed_bits/</link>
+      <pubDate>Sat, 20 Sep 2014 15:59:30 +0200</pubDate>
+      
+      <guid>https://rusydi.github.io/publication/undisturbed_bits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quak-ID</title>
+      <link>https://rusydi.github.io/project/quak-id/</link>
+      <pubDate>Sun, 20 Jul 2014 16:56:09 +0200</pubDate>
+      
+      <guid>https://rusydi.github.io/project/quak-id/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relating Undisturbed Bits to Other Properties of Substitution Boxes</title>
+      <link>https://rusydi.github.io/publication/ms_thesis/</link>
+      <pubDate>Sun, 20 Jul 2014 16:08:23 +0200</pubDate>
+      
+      <guid>https://rusydi.github.io/publication/ms_thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relating Undisturbed Bits to Other Properties of Substitution Boxes</title>
+      <link>https://rusydi.github.io/talk/ms-thesis/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
+      
+      <guid>https://rusydi.github.io/talk/ms-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protection of Integrity and Ownership of PDF Documents Using Invisible Signature</title>
+      <link>https://rusydi.github.io/publication/pdf_signature/</link>
+      <pubDate>Tue, 20 Mar 2012 16:14:07 +0200</pubDate>
+      
+      <guid>https://rusydi.github.io/publication/pdf_signature/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
