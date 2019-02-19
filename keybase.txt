@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/rusydi
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://rusydi.github.io
+    * I am rusydi (https://keybase.io/rusydi) on keybase.
+      * I have a public key with fingerprint 456D 0F99 298E 0AF7 3864  5274 D76B 7560 14ED 945D
+
+To do so, I am signing this object:
+
+{
+  "body": {
+      "key": {
+            "eldest_kid": "0101852004fa7e77bae2898fc30ec3870f32d43dcc60395942c74607dc1445de38080a",
+                  "fingerprint": "456d0f99298e0af738645274d76b756014ed945d",
+                        "host": "keybase.io",
+                              "key_id": "d76b756014ed945d",
+                                    "kid": "0101852004fa7e77bae2898fc30ec3870f32d43dcc60395942c74607dc1445de38080a",
+                                          "uid": "171ea70f715cc1a85f0ba2b293a65019",
+                                                "username": "rusydi"
+                                                    },
+                                                        "service": {
+                                                              "hostname": "rusydi.github.io",
+                                                                    "protocol": "https:"
+                                                                        },
+                                                                            "type": "web_service_binding",
+                                                                                "version": 1
+                                                                                  },
+                                                                                    "ctime": 1550572482,
+                                                                                      "expire_in": 157680000,
+                                                                                        "prev": "b3e43af232b35cd1477226deea49e5f3ad3469acb2172dc274a8a8dc307f9b0d",
+                                                                                          "seqno": 4,
+                                                                                            "tag": "signature"
+                                                                                            }
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.0
+Comment: https://keybase.io/crypto
+
+yMIqAnicrVJfSBRBHL7LU0uIooIyymiDQDxqdnZ2Z/dKMPoLStBDliWcszuz56bd
+Xrt7lpVF+FBScFT0cGb0hygMMuklAtGMLKU/hpFYGVlERQWVRlIGNWv1EPTYvAzz
++33fN9/vm7kxOSOQE3xYVBrY/rTrTPB2ZzoZKK96cn2XoNu0VojsEqrY+MaqKXO9
+aJVFhYgARCCqMgQAmQQzjHXCoKqppiEBZkgqBqYEKZKoYShA0mQNQQMjBWBqiAjJ
+lEkqUAERwoJpxWPMSThW3OOySFYoMDUNaioDxMSSqiAZYkSxomNZASJiVON8Tqy0
+XZ/BzenEZYssm9f4ITpu7x/4/+w7OS4nYpERTsKibBgiUWUT6ATqUJOIIgNR84Eu
+c+JkK+NoJ+nWUkuoCwu8VmMZzI/Vn+Ov/qKY5VUm9V8TJRzbsw27mncrPS/hRny2
+V5vw4duZHv0tFNWtOOVJckYNc1zLjgsRkSMNz/KVRVkGMoZIhWGB7UhYDotaPkLG
+igr48u9hNVxSlxiSiAklqEuyQUWEMYQKZYwgjcmmRKiEFI0YOhQxpAZ/GaISlfL0
+sKnpwM/ZZdvithBB3CaJcUnXisWJl3SYUHf9WnkoEMwJZGVO8H9YIGfS1D//bt6U
+7B9b1n5fz7L6iud9ubxiXaSjsLKnKvP5iYqZG7rVuY+bU0PnCoqGitqnB/Nlb1nN
+l/N372Xs7CGXW+6d7R1sHJm9d0ZnfuH7Yz/G9rctL21zOj+0j/Qube4KF7ZOREdG
+zr+oX112MHvmytSb5obcxqz6skMtz+5U1DUMLBjtu3gYDS7dXbytfVZW6kw/aioJ
+Ls4IfZxf0Js+mnfr6t2CEntgzqk9O94Nw41N/S3TvNfNt4xL6HHepCXDmemxT/D+
+/RScPLq57dsRuE9vetl9+lVFW2v9pgcDB0o+rwg1FK9as4V2dzU2dGd3vFVODvU8
+mps7XF0Uzitd+DWUvnCl7PTH4zcP5q/5CV0aRW0=
+=o92a
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rusydi
+
+==================================================================
