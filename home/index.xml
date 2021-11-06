@@ -18,8 +18,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://rusydi.github.io/home/about/</guid>
-      <description>Biography Rusydi Makarim is a PhD student at the Mathematical Institute, University Leiden and CWI Cryptology Group. His current research interest focuses on the algebraic aspects of cryptanalysis, in particular techniques to solve multivariate quadratic polynomial equations over a finite field. He also has a strong interest in understanding cryptographic aspect of Boolean functions and substitution boxes (S-Box).
-Rusydi is an active SageMath developer. He is mainly involved in the development of module to analyse cryptographic properties of Boolean functions and S-Boxes.</description>
+      <description>Biography Rusydi Makarim is a Lead Cryptography Analyst at <a href="https://tii.ae">Technology Innovation Institute (TII)</a>. His work focuses on the design and cryptanalysis of symmetric-key primitives. Previously he was a PhD student at the Mathematical Institute, University Leiden and CWI Cryptology Group, working on the development of Grobner bases algorithm tailored for the cryptanalysis of multivariate public-key cryptosystem. His main research interests are techniques to solve multivariate quadratic polynomial equations over a finite field and cryptographic aspect of (vectorial) Boolean functions. Rusydi is a contributor to <a href="">SageMath</a>, a free open-source mathematics software system built on top of many existing open-source packages. He is mainly involved in the development of module to analyse cryptographic properties of Boolean functions and S-Boxes.</description>
     </item>
     
     <item>
