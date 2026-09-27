@@ -454,32 +454,47 @@
               <h3>Open-Source Softwares</h3>
               <ul class="list-group bg-transparent mt-4">
                 <li class="list-group-item justify-content-between align-items-center bg-transparent text-light">
+                  <a href="https://kernel.org" target="_blank"><h5 class="text-warning">Linux Kernel</h5></a>
+                  <p class="text-justify">
+                    I implemented Ascon-Hash256 for an early adoption of <a href="https://csrc.nist.gov/pubs/sp/800/232/final" class="link-warning" target="_blank">NIST SP 800-232</a> lightweight cryptography
+                    standard in the Linux kernel (<a href="https://lore.kernel.org/all/20251231-ascon_hash256-v2-0-ffc88a0bab4d@kriptograf.id/" class="link-warning" target="_blank">link to the patch</a>).
+                  </p>
+                </li>
+                <li class="list-group-item justify-content-between align-items-center bg-transparent text-light">
                   <a href="https://github.com/sagemath/sage" target="_blank"><h5 class="text-warning">SageMath</h5></a>
                   <p class="text-justify">
-                    SageMath is a free open-source Python-based computer algebra system licensed under the GPL.
-                    It offers modules to evaluate the cryptographic properties of <a class="link-warning" href="https://doc.sagemath.org/html/en/reference/cryptography/sage/crypto/boolean_function.html" target="_blank">Boolean functions</a> and
-                    <a class="link-warning" href="https://doc.sagemath.org/html/en/reference/cryptography/sage/crypto/sbox.html" target="_blank">S-Boxes</a>.
-                    The current state of the implementation covers fundamental evaluation criteria related to nonlinearity,
-                    differential properties, algebraic aspects, branch numbers, bentness, etc.
+                    SageMath is a free open-source Python-based mathematics software for algebraic and numerical computations
+                    where I contributed to the development of the <a class="link-warning" href="https://doc.sagemath.org/html/en/reference/cryptography/sage/crypto/boolean_function.html" target="_blank">Boolean function</a>
+                    and <a class="link-warning" href="https://doc.sagemath.org/html/en/reference/cryptography/sage/crypto/sbox.html" target="_blank">SBox</a> modules.
                   </p>
                 </li>
                 <li class="list-group-item justify-content-between align-items-center bg-transparent text-light">
                   <a href="https://github.com/cr-marcstevens/m4gb" target="_blank"><h5 class="text-warning">M4GB</h5></a>
                   <p class="text-justify">
-                    M4GB is an efficient Groebner basis algorithm designed specifically to maintain tail-reduced
-                    polynomials. This C++11 implementation is optimized for dense overdefined system of polynomial
-                    equations that represent multivariate public key and digital signature schemes. M4GB and its
-                    implementation successfully broke several concrete parameters for multivariate digital signature algorithm,
-                    a potential candidate for post-quantum digital signature scheme. The result is available at
-                    <a class="link-warning" href="https://www.mqchallenge.org" target="_blank">https://www.mqchallenge.org</a>.
+                    A fast implementation of the M4GB Gröbner bases algorithm that set the record of computational
+                    challenges related to the security of multivariate public-key cryptosystems
+                    (see <a class="link-warning" href="https://www.mqchallenge.org" target="_blank">https://www.mqchallenge.org</a>).
+                  </p>
+                </li>
+                <li class="list-group-item justify-content-between align-items-center bg-transparent text-light">
+                  <a href="https://github.com/Crypto-TII/claasp" target="_blank"><h5 class="text-warning">CLAASP</h5></a>
+                  <p class="text-justify">
+                    A Python-based cryptographic library for the automated analysis of symmetric-key primitives utilizing
+                    SAT, SMT, CP, and MILP solvers.
                   </p>
                 </li>
                 <li class="list-group-item justify-content-between align-items-center bg-transparent text-light">
                   <a href="https://github.com/Crypto-TII/multivariate_quadratic_estimator" target="_blank"><h5 class="text-warning">Multivariate Quadratic (MQ) Estimator</h5></a>
                   <p class="text-justify">
-                    MQ Estimator is a SageMath package providing functions and classes to estimate the complexity of instances of MQ problem.
-                    The MQ problem is the hard problem underlying the construction of multiple post-quantum digital signature schemes in the
-                    <a class="link-warning" href="https://csrc.nist.gov/Projects/pqc-dig-sig/round-1-additional-signatures" target="_blank">NIST competition</a>.
+                    A SageMath package providing functions to estimate the complexity of solving instances of multivariate
+                    quadratic (MQ) problem, the underlying hard problem of post-quantum multivariate public-key cryptosystems.
+                  </p>
+                </li>
+                <li class="list-group-item justify-content-between align-items-center bg-transparent text-light">
+                  <a href="https://github.com/rusydi/gbsbox" target="_blank"><h5 class="text-warning">GBSBox</h5></a>
+                  <p class="text-justify">
+                    A SageMath module to analyze the cryptographic properties of S-Boxes from the point-of-view of
+                    computational commutative algebra using Gröbner bases.
                   </p>
                 </li>
               </ul>
